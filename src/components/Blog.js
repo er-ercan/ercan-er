@@ -17,7 +17,7 @@ const Blog = () => {
               <div className="blog-img">
                 <Link href="/single-blog">
                   <a>
-                    <img src="static/img/blog-1.jpg" title="" alt="" />
+                    <img src="images/blog-1.jpg" title="" alt="" />
                   </a>
                 </Link>
               </div>
@@ -39,7 +39,7 @@ const Blog = () => {
               <div className="blog-img">
                 <Link href="/single-blog">
                   <a>
-                    <img src="static/img/blog-2.jpg" title="" alt="" />
+                    <img src="images/blog-2.jpg" title="" alt="" />
                   </a>
                 </Link>
               </div>
@@ -61,7 +61,7 @@ const Blog = () => {
               <div className="blog-img">
                 <Link href="/single-blog">
                   <a>
-                    <img src="static/img/blog-3.jpg" title="" alt="" />
+                    <img src="images/blog-3.jpg" title="" alt="" />
                   </a>
                 </Link>
               </div>
@@ -83,7 +83,7 @@ const Blog = () => {
               <div className="blog-img">
                 <Link href="/single-blog">
                   <a>
-                    <img src="static/img/blog-4.jpg" title="" alt="" />
+                    <img src="images/blog-4.jpg" title="" alt="" />
                   </a>
                 </Link>
               </div>

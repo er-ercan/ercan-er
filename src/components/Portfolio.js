@@ -89,12 +89,9 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-1.jpg" title="" alt="" />
+                <img src="images/m-portfolio-1.jpg" title="" alt="" />
                 <div className="portfolio-icon">
-                  <a
-                    href="static/img/m-portfolio-1.jpg"
-                    className="gallery-link"
-                  >
+                  <a href="images/m-portfolio-1.jpg" className="gallery-link">
                     <span className="ti-plus" />
                   </a>
                 </div>
@@ -109,12 +106,9 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-2.jpg" title="" alt="" />
+                <img src="images/m-portfolio-2.jpg" title="" alt="" />
                 <div className="portfolio-icon">
-                  <a
-                    href="static/img/m-portfolio-2.jpg"
-                    className="gallery-link"
-                  >
+                  <a href="images/m-portfolio-2.jpg" className="gallery-link">
                     <span className="ti-plus" />
                   </a>
                 </div>
@@ -129,12 +123,9 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-3.jpg" title="" alt="" />
+                <img src="images/m-portfolio-3.jpg" title="" alt="" />
                 <div className="portfolio-icon">
-                  <a
-                    href="static/img/m-portfolio-3.jpg"
-                    className="gallery-link"
-                  >
+                  <a href="images/m-portfolio-3.jpg" className="gallery-link">
                     <span className="ti-plus" />
                   </a>
                 </div>
@@ -149,12 +140,9 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-5.jpg" title="" alt="" />
+                <img src="images/m-portfolio-5.jpg" title="" alt="" />
                 <div className="portfolio-icon">
-                  <a
-                    href="static/img/m-portfolio-5.jpg"
-                    className="gallery-link"
-                  >
+                  <a href="images/m-portfolio-5.jpg" className="gallery-link">
                     <span className="ti-plus" />
                   </a>
                 </div>
@@ -169,12 +157,9 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-4.jpg" title="" alt="" />
+                <img src="images/m-portfolio-4.jpg" title="" alt="" />
                 <div className="portfolio-icon">
-                  <a
-                    href="static/img/m-portfolio-4.jpg"
-                    className="gallery-link"
-                  >
+                  <a href="images/m-portfolio-4.jpg" className="gallery-link">
                     <span className="ti-plus" />
                   </a>
                 </div>
@@ -189,12 +174,9 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-6.jpg" title="" alt="" />
+                <img src="images/m-portfolio-6.jpg" title="" alt="" />
                 <div className="portfolio-icon">
-                  <a
-                    href="static/img/m-portfolio-6.jpg"
-                    className="gallery-link"
-                  >
+                  <a href="images/m-portfolio-6.jpg" className="gallery-link">
                     <span className="ti-plus" />
                   </a>
                 </div>
@@ -209,12 +191,9 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-7.jpg" title="" alt="" />
+                <img src="images/m-portfolio-7.jpg" title="" alt="" />
                 <div className="portfolio-icon">
-                  <a
-                    href="static/img/m-portfolio-7.jpg"
-                    className="gallery-link"
-                  >
+                  <a href="images/m-portfolio-7.jpg" className="gallery-link">
                     <span className="ti-plus" />
                   </a>
                 </div>
@@ -229,12 +208,9 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-8.jpg" title="" alt="" />
+                <img src="images/m-portfolio-8.jpg" title="" alt="" />
                 <div className="portfolio-icon">
-                  <a
-                    href="static/img/m-portfolio-8.jpg"
-                    className="gallery-link"
-                  >
+                  <a href="images/m-portfolio-8.jpg" className="gallery-link">
                     <span className="ti-plus" />
                   </a>
                 </div>
@@ -249,12 +225,9 @@ const Portfolio = () => {
                 <span>Broadcasting ios App</span>
               </div>
               <div className="portfolio-img">
-                <img src="static/img/m-portfolio-9.jpg" title="" alt="" />
+                <img src="images/m-portfolio-9.jpg" title="" alt="" />
                 <div className="portfolio-icon">
-                  <a
-                    href="static/img/m-portfolio-9.jpg"
-                    className="gallery-link"
-                  >
+                  <a href="images/m-portfolio-9.jpg" className="gallery-link">
                     <span className="ti-plus" />
                   </a>
                 </div>

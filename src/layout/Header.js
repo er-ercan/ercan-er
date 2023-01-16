@@ -39,7 +39,7 @@ const Header = ({ blog }) => {
             <div className="hl-logo">
               <div className="img">
                 <img
-                  src="static/img/about-me.jpeg"
+                  src="images/about-me.jpeg"
                   title="ercan-er-about"
                   alt="About Image"
                 />

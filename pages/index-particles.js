@@ -42,7 +42,7 @@ const IndexParticles = () => {
               </div>
               <div className="col-lg-6">
                 <div className="hb-img">
-                  <img src="static/img/home-banner.png" title="" alt="" />
+                  <img src="images/home-banner.png" title="" alt="" />
                 </div>
               </div>
             </div>
