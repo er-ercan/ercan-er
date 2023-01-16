@@ -1,4 +1,4 @@
-import Head from "next/head";
+import { Head } from "next/document";
 import { Fragment, useEffect, useState } from "react";
 import PreLoader from "../src/layout/PreLoader";
 import "../styles/glitch.css";
