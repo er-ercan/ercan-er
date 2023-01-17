@@ -61,23 +61,21 @@ const Contact = () => {
             <div className="contact-info">
               <h4>What’s your story? Get in touch</h4>
               <p>
-                Always available for freelancing if the right project comes
+                Always available for your questions if the right project comes
                 along, Feel free to contact me.
               </p>
               <ul>
                 <li className="media">
                   <i className="ti-map" />
-                  <span className="media-body">
-                    123 Stree New York City , United States Of America 750065.
-                  </span>
+                  <span className="media-body">Çankaya / Ankara - Turkey</span>
                 </li>
                 <li className="media">
                   <i className="ti-email" />
-                  <span className="media-body">support@domain.com</span>
+                  <span className="media-body">ercanatilim@gmail.com</span>
                 </li>
                 <li className="media">
                   <i className="ti-mobile" />
-                  <span className="media-body">+044 9696 9696 3636</span>
+                  <span className="media-body">+90 531 696 83 32</span>
                 </li>
               </ul>
             </div>
@@ -191,8 +189,9 @@ const Contact = () => {
               <div className="embed-responsive embed-responsive-21by9">
                 <iframe
                   className="embed-responsive-item"
-                  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3151.840107317064!2d144.955925!3d-37.817214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1520156366883"
-                  allowFullScreen=""
+                  loading="lazy"
+                  allowfullscreen
+                  src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJsS1zINVH0xQRjSuEwLBX3As&key=AIzaSyAjSKk5O_VzWBdw-EVNw791PFPMzMqR1ek"
                 />
               </div>
             </div>
