@@ -44,7 +44,11 @@ const Index = () => {
               </div>
               <div className="col-lg-6">
                 <div className="hb-img">
-                  <img src="images/home-banner.png" title="" alt="" />
+                  <img
+                    src="images/ercan-er.avif"
+                    title="ercan-er"
+                    alt="ercan-er-main-photo"
+                  />
                 </div>
               </div>
             </div>
