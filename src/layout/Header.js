@@ -50,20 +50,14 @@ const Header = ({ blog }) => {
           {blog ? <MenuWithBlog /> : <MenuWithOutBlog />}
         </div>
         <div className="nav justify-content-center social-icons">
-          <a href="#">
-            <i className="fab fa-facebook-f" />
-          </a>
-          <a href="#">
+          <a href="https://mobile.twitter.com/dev_ercaner">
             <i className="fab fa-twitter" />
           </a>
-          <a href="#">
+          <a href="https://www.instagram.com/ee_ercan/">
             <i className="fab fa-instagram" />
           </a>
-          <a href="#">
+          <a href="https://www.linkedin.com/in/ercan-er/">
             <i className="fab fa-linkedin-in" />
-          </a>
-          <a href="#">
-            <i className="fab fa-pinterest" />
           </a>
         </div>
       </header>

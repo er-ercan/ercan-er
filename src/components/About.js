@@ -204,7 +204,10 @@ const About = () => {
           <div className="resume-row">
             <div className="row">
               <div className="col-sm-3 col-md-3 col-xl-2">
-                <div className="rb-left">
+                <div
+                  className="rb-left"
+                  style={{ display: "flex", alignItems: "center" }}
+                >
                   <img src="images/a3.png" title="" alt="" />
                 </div>
               </div>
