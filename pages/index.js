@@ -33,9 +33,9 @@ const Index = () => {
                   </p>
                   <div className="btn-bar">
                     <a
-                      className="px-btn px-btn-theme"
-                      href="/public/static/file/Ercan-Resume.pdf"
                       download
+                      className="px-btn px-btn-theme"
+                      href="file/Ercan-Resume.pdf"
                     >
                       Donwload CV
                     </a>
