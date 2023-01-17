@@ -64,25 +64,30 @@ const About = () => {
         </div>
         <div className="separated" />
         <div className="title">
-          <h3>Education &amp; Skills</h3>
+          <h3>Experience</h3>
         </div>
         <div className="row">
           <div className="col-lg-4 m-15px-tb">
             <ul className="aducation-box">
               <li>
-                <span>2010-2012</span>
-                <h6>Graphic Designer</h6>
-                <p>International Design Institute</p>
+                <span>2022-Current</span>
+                <h6>Senior Front-end Developer</h6>
+                <p>Thundra</p>
               </li>
               <li>
-                <span>2010-2012</span>
-                <h6>Web Development</h6>
-                <p>International Design Institute</p>
+                <span>2019-2022</span>
+                <h6>Senior Front-end developer and Team Lead</h6>
+                <p>OBSS</p>
               </li>
               <li>
-                <span>2010-2012</span>
-                <h6>Search Engine Optimization</h6>
-                <p>International Design Institute</p>
+                <span>2017-2019</span>
+                <h6>ATOS</h6>
+                <p>Software Engineer</p>
+              </li>
+              <li>
+                <span>2015-2017</span>
+                <h6>Bilginc IT Academy</h6>
+                <p>Junior Software Engineer</p>
               </li>
             </ul>
           </div>
@@ -90,10 +95,12 @@ const About = () => {
             <div className="skills-box">
               <h3>My skills</h3>
               <p>
-                {`I'm`} a Freelancer Front-end Developer with over 3 years of
-                experience. I code and create web elements for amazing people
-                around the world. I like work with new people. New people new
-                Experiences.
+                {`I'm`} a Front-end Developer with over 8 years of experience.
+                My principle is easy and based on producing the best solution,
+                using software architectures to develop reusable code. I am
+                working on projects that are aware of the importance of teamwork
+                so that the projects are completed accurately and successfully
+                in a timely manner.
               </p>
               <div className="skill-lt">
                 <h6>React</h6>
