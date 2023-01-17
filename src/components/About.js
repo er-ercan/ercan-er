@@ -64,7 +64,7 @@ const About = () => {
         </div>
         <div className="separated" />
         <div className="title">
-          <h3>Experience</h3>
+          <h3>Experience & Skills</h3>
         </div>
         <div className="row">
           <div className="col-lg-4 m-15px-tb">
@@ -153,7 +153,7 @@ const About = () => {
         </div>
         <div className="separated" />
         <div className="title">
-          <h3>Experience.</h3>
+          <h3>Experience Detail</h3>
         </div>
         <div className="resume-box">
           <div className="resume-row">
@@ -165,15 +165,14 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
+                  <h6>Senior Front-end Developer</h6>
+                  <label>Thundra | 2022 - Present</label>
                   <div className="rb-time">Full Time</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                    I working on the Foresight (CI/CD Observability) project to
+                    develop all application pages. In addition to I develop some
+                    services with Node.js. I use React, Javascript, Scss, CSS3,
+                    HTML 5 in this project
                   </p>
                 </div>
               </div>
@@ -188,15 +187,15 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
+                  <h6>Senior Front-end Developer & Team Lead</h6>
+                  <label>OBSS | 2019 - 2022</label>
                   <div className="rb-time">Full Time</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                    I started to work as the Senior Front-End developer of the
+                    "Ağ Destekli Yönetim" system at the Aselsan location. After
+                    1 year, I continued my duty as the team leader. Currently, I
+                    am developing as a Technical Lead in the field of Front end
+                    and I also support different projects.
                   </p>
                 </div>
               </div>
@@ -211,15 +210,19 @@ const About = () => {
               </div>
               <div className="col-sm-9 col-md-9 col-xl-10">
                 <div className="rb-right">
-                  <h6>Front-end Developer</h6>
-                  <label>WeLab | Remote | Jan 2019 - Present</label>
+                  <h6>Software Engineer</h6>
+                  <label>ATOS | 2017 - 2019</label>
                   <div className="rb-time">Full Time</div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor.
+                    I worked in the TYBS project to develop the financial module
+                    and develop components with the Pebble template engine in
+                    the lower structure. Minor modules I completed in the
+                    financial module TTS (Transfer Tracking System), budget
+                    item, flow issues and Limit integration. Technologies I use
+                    - Java Spring MVC - HTML 5 - SCSS - JavaScript, jQuery -
+                    Pebble Template Engine - Red Hat BPM - Adobe Photoshop,
+                    Illustration - JIRA, Slack Adobe Photoshop - Git - XML - PDF
+                    Conversion
                   </p>
                 </div>
               </div>
