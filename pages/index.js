@@ -5,9 +5,9 @@ import Contact from "../src/components/Contact";
 import Services from "../src/components/Services";
 import TypingAnimation from "../src/components/TypingAnimation";
 import Layout from "../src/layout/Layout";
-const Portfolio = dynamic(() => import("../src/components/Portfolio"), {
-  ssr: false,
-});
+// const Portfolio = dynamic(() => import("../src/components/Portfolio"), {
+//   ssr: false,
+// });
 const Index = () => {
   return (
     <Layout>
@@ -63,7 +63,7 @@ const Index = () => {
       <Services />
       {/* End Services */}
       {/* Portfolio */}
-      <Portfolio />
+      {/* <Portfolio /> */}
       {/* End Portfolio */}
       {/* Blog */}
       <Blog />

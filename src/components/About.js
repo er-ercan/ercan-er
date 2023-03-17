@@ -30,32 +30,24 @@ const About = () => {
                   amazing company around the world. I like work with new people.
                   New people means new Experiences.
                 </p>
-                <div className="row">
-                  <div className="col-auto">
-                    <div className="media align-items-center">
-                      <span className="count">5k</span>
-                      <div className="media-body">
-                        Projects <br />
-                        Completed.
-                      </div>
-                    </div>
-                  </div>
-                  <div className="col-auto">
-                    <div className="media align-items-center">
-                      <span className="count">3k</span>
-                      <div className="media-body">
-                        Satisfied <br />
-                        Clients.
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                <p>
+                  If you want to see my personal notes you would click{" "}
+                  <em>
+                    <b>My notes</b>
+                  </em>{" "}
+                  button.
+                </p>
+                <div className="row"></div>
                 <div className="btn-bar">
-                  <a className="px-btn px-btn-theme" href="#">
-                    <span>Contact Me</span>
+                  <a
+                    target="_blank"
+                    className="px-btn px-btn-theme"
+                    href="https://ercan-er.github.io"
+                  >
+                    <span>My Notes</span>
                   </a>
-                  <a className="px-btn px-btn-theme" href="#">
-                    <span>Portfolio</span>
+                  <a className="px-btn px-btn-theme" href="#contactus">
+                    <span>Contact Me</span>
                   </a>
                 </div>
               </div>
@@ -125,6 +117,15 @@ const About = () => {
                 <div className="skill-bar">
                   <div className="skill-bar-in" style={{ width: "71%" }}>
                     <span data-toggle="tooltip" title="71%" />
+                  </div>
+                </div>
+              </div>
+              {/* /skill */}
+              <div className="skill-lt">
+                <h6>Node Js</h6>
+                <div className="skill-bar">
+                  <div className="skill-bar-in" style={{ width: "44%" }}>
+                    <span data-toggle="tooltip" title="44%" />
                   </div>
                 </div>
               </div>
